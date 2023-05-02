@@ -1,4 +1,4 @@
-def print_hello():
+fdsdef print_hello():
     animals = ['dog','cat','hamster']
     foods = [
         'Spagetti',
